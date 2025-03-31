@@ -26,7 +26,7 @@ Built using AI, NLP, and speech recognition, this system provides a seamless com
 **6.User-Friendly Web Interface**
  - Built using Streamlit, providing a simple and intuitive UI.
 
-**Tech Stacks**
+## Tech Stacks
 
 **1.Frontend & UI**
   - Streamlit → For creating a user-friendly web interface
@@ -50,7 +50,7 @@ Built using AI, NLP, and speech recognition, this system provides a seamless com
    - Tempfile (tempfile) → For managing temporary file storage.
    - Collections (defaultdict) → For efficient data structuring
 
-**Packages Required**
+## Packages Required
 
 1.Frontend & UI
 bash pip install streamlit
