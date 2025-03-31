@@ -19,7 +19,7 @@ from pydub import AudioSegment
 st.set_page_config(page_title="Railway Complaint System", layout="wide")
 
 # 🔹 Configure Gemini AI
-genai.configure(api_key="AIzaSyBrKoejvx2Nrg9XdeYe981VdP88Wfze5N0")  # Replace with your valid API key
+genai.configure(api_key="YOUR GEMINI API KEY")  # Replace with your valid API key
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 # 🔹 Define valid PNR numbers
