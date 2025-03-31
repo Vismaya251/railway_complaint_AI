@@ -65,27 +65,41 @@ bash pip install google-generativeai speechrecognition
 bash pip install sounddevice wave numpy pydub
 
 ## Steps to Set Up & Run the Project
+
 **1.Create a Jupyter Notebook File**
+
 - Open Jupyter Notebook and create a new file.
 - Save it as (project_name.py).
   
-2.Copy & Paste the Code
+**2.Copy & Paste the Code**
+
 Copy the provided Python script and paste it into (project_name.py).
   
-3.Add Your Gemini API Key
+**3.Add Your Gemini API Key**
+
 Locate line 49 in the code and replace the placeholder with your API key.
 
-4.Save the File
+**4.Save the File**
+
 Press (Ctrl + S) to save your work.
 
-5.Open Anaconda Prompt
+**5.Open Anaconda Prompt**
+
 Launch Anaconda Prompt on your system.
 
-6.Run the Streamlit App
+**6.Run the Streamlit App**
+
 Run this command in Anaconda Prompt: bash streamlit run project_name.py
 
-7.View the Output
+**7.View the Output**
+
 The app will launch in your browser, and you can start using it!
+
+## Snapshots
+
+1.HomePage
+![image](https://github.com/user-attachments/assets/fd96f42d-ed9c-4edc-885b-91c3a9e2e4f4)
+
 
 
 
