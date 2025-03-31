@@ -97,8 +97,60 @@ The app will launch in your browser, and you can start using it!
 
 ## Snapshots
 
-1.HomePage
+**1.HomePage**
 ![image](https://github.com/user-attachments/assets/fd96f42d-ed9c-4edc-885b-91c3a9e2e4f4)
+
+**2.File a complaint**
+
+![image](https://github.com/user-attachments/assets/af9679e9-4e97-42d7-a364-d4c2fac9e96b)
+
+- Through Type complaint
+![image](https://github.com/user-attachments/assets/686b1301-e215-4066-a269-4db054dbb466)
+
+- Through Record/Upload Audio
+  ![image](https://github.com/user-attachments/assets/0d7f304d-6992-4620-92d8-009e3e21bf77)
+
+ **3.Admin panel**
+![image](https://github.com/user-attachments/assets/bb63ec22-242e-48e1-8615-b827621c3f82)
+
+**4.Database Storage**
+![image](https://github.com/user-attachments/assets/6a0896b5-8cb7-45b4-b56e-1b95a97e5a63)
+
+**5.Email**
+![image](https://github.com/user-attachments/assets/d3f29485-837f-48a9-afe2-3f0b5a4bf8c2)
+
+## System Architecture
+
+Below is the architecture diagram explaining how complaints are processed, categorized, and sent as notifications.
+
+![image](https://github.com/user-attachments/assets/dccfbf9c-cff4-455d-b9d0-caa598737a83)
+
+## Demo Video
+
+Click the link to watch the full demonstration of the Railway Complaint System:
+https://drive.google.com/drive/folders/1MAYDAIQLHCv9H5JOiPobE0sAAai7B9eb?usp=drive_link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
 
 
 
