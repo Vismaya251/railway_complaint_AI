@@ -130,7 +130,47 @@ Below is the architecture diagram explaining how complaints are processed, categ
 Click the link to watch the full demonstration of the Railway Complaint System:
 https://drive.google.com/drive/folders/1MAYDAIQLHCv9H5JOiPobE0sAAai7B9eb?usp=drive_link
 
-Railway_complaint_AI_Demovideo
+## Who Benefits from This Project?
+
+- Railway Passengers → File complaints quickly and efficiently.
+
+- Non-English Speakers → Utilize multi-language speech-to-text.
+
+- Railway Authorities → Receive categorized complaints for faster resolution
+
+ ## Future Enhancement
+
+- Voice-to-Voice Interaction → Users can speak, and the system responds via speech.
+  
+- Advanced Analytics Dashboard → Track common complaint trends & insights.
+  
+- Mobile App Version → Develop an Android/iOS app for on-the-go complaint filing.
+
+- Enhanced Security → OTP-based authentication and encrypted data storage.
+
+  ## Conclusion
+
+The Railway Complaint System is an AI-powered platform designed to make the complaint filing process faster, more efficient, and user-friendly for railway passengers. By integrating speech-to-text processing, automated complaint categorization, and real-time notifications, the system eliminates manual delays and ensures that complaints reach the right authorities quickly. With multilingual support and an intuitive interface, passengers from diverse backgrounds can easily report issues without language barriers, making the system more accessible. Beyond simplifying complaint management, the system also enhances transparency and responsiveness through automated email to authorities. The use of AI-driven insights and structured database storage further improves service monitoring, helping railway authorities analyze and resolve recurring issues proactively. This project demonstrates how technology can revolutionize public service systems, paving the way for a smarter, more efficient, and passenger-centric railway grievance management process.
+
+  ## References & Citations
+
+- OpenAI ChatGPT – Used to assist with code structure, explanation writing, formatting, and overall guidance during the project
+  
+- Referred to the codes which were done in practical classes.
+  
+- https://medium.com/@srinandh28/create-web-applications-quickly-and-easily-with-streamlit-0c40b04fc8e0.
+  
+- https://youtu.be/_GivO-FX-3Q?feature=shared
+  
+- https://youtu.be/girsuXz0yA8?feature=shared
+  
+- https://youtu.be/g_j6ILT-X0k
+
+
+  
+  
+
+
 
 
 
