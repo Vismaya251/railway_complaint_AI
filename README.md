@@ -10,7 +10,7 @@ Built using AI, NLP, and speech recognition, this system provides a seamless com
  - Text Input → Manually type and submit complaints.
  - Speech-to-Text → Speak directly, and the system converts it into text.
  - Voice Recording & Upload → Upload an audio file for complaint registration.
- - 
+   
 **2.AI-Powered Complaint Categorization**
    
  - Uses Google Gemini AI to auto-classify complaints into predefined categories.
