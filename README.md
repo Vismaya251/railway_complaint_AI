@@ -53,14 +53,39 @@ Built using AI, NLP, and speech recognition, this system provides a seamless com
 ## Packages Required
 
 1.Frontend & UI
+
 bash pip install streamlit
 
 2.AI & NLP
+
 bash pip install google-generativeai speechrecognition 
 
 3.Audio Processing
+
 bash pip install sounddevice wave numpy pydub
 
+## Steps to Set Up & Run the Project
+**1.Create a Jupyter Notebook File**
+- Open Jupyter Notebook and create a new file.
+- Save it as (project_name.py).
+  
+2.Copy & Paste the Code
+Copy the provided Python script and paste it into (project_name.py).
+  
+3.Add Your Gemini API Key
+Locate line 49 in the code and replace the placeholder with your API key.
+
+4.Save the File
+Press (Ctrl + S) to save your work.
+
+5.Open Anaconda Prompt
+Launch Anaconda Prompt on your system.
+
+6.Run the Streamlit App
+Run this command in Anaconda Prompt: bash streamlit run project_name.py
+
+7.View the Output
+The app will launch in your browser, and you can start using it!
 
 
 
