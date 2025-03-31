@@ -1,13 +1,18 @@
 **Railway Complaint System**
+
 Railway passengers often struggle with filing complaints efficiently, leading to delays in addressing critical issues. Our Railway Complaint System solves this by allowing users to submit complaints via text or voice, which are then automatically categorized using AI and forwarded to railway authorities via email faster resolution.
 Built using AI, NLP, and speech recognition, this system provides a seamless complaint submission process with real-time notifications to ensure passenger grievances are addressed quickly.
 
 **Features**
+
 **1.Multi-Mode Complaint Submission**
+
  - Text Input → Manually type and submit complaints.
  - Speech-to-Text → Speak directly, and the system converts it into text.
  - Voice Recording & Upload → Upload an audio file for complaint registration.
+ - 
 **2.AI-Powered Complaint Categorization**
+   
  - Uses Google Gemini AI to auto-classify complaints into predefined categories.
  - Reduces manual work and speeds up complaint processing.
 **3.Secure Database Storage**
