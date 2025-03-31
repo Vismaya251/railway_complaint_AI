@@ -15,8 +15,10 @@ Built using AI, NLP, and speech recognition, this system provides a seamless com
    
  - Uses Google Gemini AI to auto-classify complaints into predefined categories.
  - Reduces manual work and speeds up complaint processing.
+   
 **3.Secure Database Storage**
  - All complaints are stored securely in a SQLite database for future reference.
+   
 **4.Real-Time Notifications**
  - Email Alerts → Sent to railway authorities for immediate action.
 **5.Multi-Language Support**
